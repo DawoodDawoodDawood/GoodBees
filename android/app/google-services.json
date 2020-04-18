@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192665193308",
+    "firebase_url": "https://goodbees-49451.firebaseio.com",
+    "project_id": "goodbees-49451",
+    "storage_bucket": "goodbees-49451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192665193308:android:177fbd69d8a4d3b91a0f99",
+        "android_client_info": {
+          "package_name": "com.goodbees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192665193308-d693s8etk2oak1hut4hvvpj0srv7l2oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN-ZGsPZktv9ZZAPE-vRiojEiBziapV7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192665193308-d693s8etk2oak1hut4hvvpj0srv7l2oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
